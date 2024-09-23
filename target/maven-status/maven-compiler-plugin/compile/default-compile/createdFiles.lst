@@ -1,0 +1,10 @@
+ru\javarush\vasilev\controller\TaskController.class
+ru\javarush\vasilev\dao\TaskDAO.class
+ru\javarush\vasilev\App.class
+ru\javarush\vasilev\domain\Status.class
+ru\javarush\vasilev\config\AppConfig.class
+ru\javarush\vasilev\config\WebAppInitializer.class
+ru\javarush\vasilev\controller\TaskInfo.class
+ru\javarush\vasilev\service\TaskService.class
+ru\javarush\vasilev\domain\Task.class
+ru\javarush\vasilev\config\WebConfig.class
