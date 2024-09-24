@@ -47,11 +47,12 @@ public class TaskService {
     }
 
     @Transactional
-    public void delete(int id){
+    public Task delete(int id){
         Task task = taskDAO.getById(id);
         if(isNull(task)){
             throw new RuntimeException("Not found");
         }
         taskDAO.delete(task);
+        return task;
     }
 }

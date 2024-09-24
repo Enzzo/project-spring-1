@@ -1,8 +1,10 @@
 function delete_task(task_id){
     let url = "/" + task_id;
+    console.log(url);
     $.ajax({
         url: url,
         type: 'DELETE',
+        async: false,
         success: function(){
             window.location.reload();
         }
@@ -22,7 +24,7 @@ function edit_task(task_id){
     let current_tr_element = $(identifier_edit).parent().parent();
     let children = current_tr_element.children();
     let td_description = children[1];
-    td_description.innerHTML = "<input id='input_description_" + task_id + "'type='text' value'" + td_description.innerHTML + "'>";
+    td_description.innerHTML = "<input id='input_description_" + task_id + "' type='text' value'" + td_description.innerHTML + "'>";
 
     let td_status = children[2];
     let status_id = "#select_status_" + task_id;

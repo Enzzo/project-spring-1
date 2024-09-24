@@ -60,7 +60,7 @@ public class TaskController {
         if(isNull(id) || id <= 0){
             throw new RuntimeException("Invalid id");
         }
-        taskService.delete(id);
+        Task task = taskService.delete(id);
         return tasks(model, 1, 10);
     }
 }
