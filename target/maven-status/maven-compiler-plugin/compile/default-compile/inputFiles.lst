@@ -1,10 +1,10 @@
-D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\domain\Task.java
 D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\App.java
-D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\controller\TaskController.java
-D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\dao\TaskDAO.java
-D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\config\WebAppInitializer.java
-D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\controller\TaskInfo.java
-D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\config\WebConfig.java
 D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\config\AppConfig.java
-D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\service\TaskService.java
+D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\config\WebAppInitializer.java
+D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\config\WebConfig.java
+D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\controller\TaskController.java
+D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\controller\TaskInfo.java
+D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\dao\TaskDAO.java
 D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\domain\Status.java
+D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\domain\Task.java
+D:\dev\java\javarush\hw\project-spring-1\src\main\java\ru\javarush\vasilev\service\TaskService.java
